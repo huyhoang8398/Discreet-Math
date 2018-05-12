@@ -1,0 +1,2 @@
+face_cascade.load("/usr/local/Cellar/opencv/3.4.1_4/share/OpenCV/haarcascades/haarcascade_frontalface_alt2.xml"); // load face classifiers
+    eyes_cascade.load("/usr/local/Cellar/opencv/3.4.1_4/share/OpenCV/haarcascades/haarcascade_eye_tree_eyeglasses.xml"); // load eye classifiers
